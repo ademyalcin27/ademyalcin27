@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ad3myalcin" target="blank"><img src="https://img.shields.io/twitter/follow/ad3myalcin?logo=twitter&style=for-the-badge" alt="ad3myalcin" /></a> </p>
 
-- 📝 I regularly write articles on [youtube.com/izleveogren](youtube.com/izleveogren)
+- 📝 I regularly write articles on [youtube.com/izleveogren](https://www.youtube.com/izleveogren)
 
 - 📫 How to reach me **ademyalcin27@gmail.com**
 
